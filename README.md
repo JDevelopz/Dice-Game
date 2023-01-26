@@ -44,8 +44,7 @@ CSS Code: In this section, we will use some CSS property to style the Dice Game.
 <br> 
 JavaScript Code: The JavaScript code contains the functionality of Dice Game. The first functionality is to rename the player name after clicking the button. Another functionality is to roll the dice after clicking the button. After rolling the dice by both the player, anyone player will win who get the highest phase value. If both players get the same phase value then the game will draw.
 <br> 
-```
-//Get placeholders for player names.
+```//Get placeholders for player names.
 const player1 = document.getElementById('player1');
 const player2 = document.getElementById('player2');
 // init function that runs when application gets launched.
