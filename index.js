@@ -2,8 +2,8 @@
 let person1 = prompt('Player 1, please enter your name');
 let person2 = prompt('Player 2, please enter your name');
 //Change player names
-const player1 = document.querySelector('player1');
-const player2 = document.querySelector('player2');
+const player1 = document.querySelector('#player1');
+const player2 = document.querySelector('#player2');
 
 if(person1){
   player1.innerHTML = person1
