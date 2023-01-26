@@ -82,7 +82,8 @@ button.onclick = function() {
   } else {
     document.querySelector('h1').innerHTML = 'Draw!'
   }
-}```
+}
+```
 
 <br>
 
