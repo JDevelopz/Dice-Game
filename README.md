@@ -1,6 +1,6 @@
 # Dice-Game
 <br>
-![Friendshub landing page](https://github.com/JDevelopz/Dice-Game/blob/main/images/Dice-game.png?raw=true)
+![Dice game](https://github.com/JDevelopz/Dice-Game/blob/main/images/Dice-game.png?raw=true)
 <br>
 The Dice Game is based on a two-player. Both players roll the dice and the player who gets the highest phase value will win the game.
 
