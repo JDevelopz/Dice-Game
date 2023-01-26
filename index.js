@@ -1,3 +1,17 @@
+// Get player names 
+let person1 = prompt('Player 1, please enter your name');
+let person2 = prompt('Player 2, please enter your name');
+//Change player names
+const player1 = document.querySelector('player1');
+const player2 = document.querySelector('player2');
+
+if(person1){
+  player1.innerHTML = person1
+}
+if(person2){
+  player2.innerHTML = person2;
+}
+
 // Makes Javascript Activate on button click
 var button = document.querySelector('button');
 button.onclick = function() {
